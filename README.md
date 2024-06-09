@@ -17,3 +17,5 @@ The web server supports formats such as:
 `css`
 
 `png`,`jpg`,`jpeg`,...etc
+
+To demonstrate the work, a static web page was developed.
